@@ -246,3 +246,55 @@ ls /usr/share/plymouth/themes/
 plymouth
 sudo plymouth-set-default-theme -R simplefuture
 sudo reboot 0
+sudo apt install gnome-shell-extension-dash-to-dock
+sudo apt install gnome-shell-extension-dash-to-panel 
+sudo apt update
+sudo apt upgrade
+sudo apt update
+for i in {0..15}; do echo -e "\e[48;5;${i}m Cor ${i} \e[0m"; done
+printf "\e[38;5;%sm Cor de texto %s \e[0m\n" {0..15} {0..15}
+printf "\e[48;5;%sm Cor de fundo %s \e[0m\n" {0..15} {0..15}
+for fg in {30..37} {90..97}; do   for bg in {40..47} {100..107}; do     echo -en "\e[${fg};${bg}m FG:${fg} BG:${bg} \e[0m";   done;   echo; done
+clear
+ls
+cd 
+ls -a --color=auto
+man ls
+cat .bash
+cat .bashrc 
+clear
+cd .dotnet/
+ls
+cd corefx/
+ls
+clear
+ls
+cd ~
+lks
+lss
+ls
+cd Documentos/
+ls
+cd ../
+cd /
+ls
+cd etc/
+ls
+cd apt/
+ls
+cd keyrings/
+ls
+clear
+ls
+cd ../../
+ls
+clear
+ls
+cd  ../
+clear
+ls
+cd etc/
+ls
+export PS1="\[\e[38;5;1m\]Meu Prompt \[\e[0m\]\$ "
+teste
+exit
