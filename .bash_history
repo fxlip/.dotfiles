@@ -86,3 +86,87 @@ sudo apt install snapd
 sudo snap install code --classic
 sudo snap run code
 snap run code
+git status
+git push origin main
+git add .
+git commit -m "primeiro update"
+git push origin master
+git push origin main
+git status
+git add .
+git commit -m "dotfiles rebase"
+git push origin main
+git status
+git add .
+git commit -m "wallpaper1"
+git push origin main
+git status
+sudo apt install conky
+git status
+sudo apt install conky-all
+conky
+ls -a
+conky -v
+git status
+git add .
+git commit -m "configs default"
+git push origin main
+git status
+git add .
+git commit -m "conky add"
+conky -c ~/.config/conky/esquerda.conf 
+pkill conky
+cd /etc/apt/sources.list.d/
+nano /etc/apt/sources.list
+sudo apt install linux-headers-$(uname -r) 
+sudo apt install nvidia-driver 
+nano /etc/apt/sources.list
+sudo nano /etc/apt/sources.list
+cd
+clear
+sudo apt update
+sudo apt upgrade
+sudo apt install nvidia-driver 
+sudo apt install nvidia-driver
+sudo apt purge nvidia-*
+sudo apt autoremove 
+sudo apt update
+sudo apt upgrade
+sudo apt install nvidia-driver
+sudo nano /etc/apt/sources.list
+sudo apt update
+sudo apt upgrade
+sudo apt install nvidia-driver
+sudo apt --fix-broken install
+sudo apt --fix-broken install nvidia-driver
+lspci | grep -i nvidia
+nvidia-smi
+sudo reboot 0
+sudo apt update
+sudo apt upgrade
+sudo apt install nvidia-driver
+sudo apt install build-essential
+gcc -v
+sudo apt install software-properties-common
+sudo apt install gcc-12 g++-12 gcc-13 g++-13 -y
+sudo apt install gcc-12 g++-12 -y
+sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-12 12 --slave /usr/bin/g++ g++ /usr/bin/g++-12
+sudo update-alternatives --config gcc
+sudo apt install pkg-config libglvnd-dev
+sudo apt install nvidia-driver
+sudo nano /etc/apt/sources.list
+sudo apt update
+sudo apt upgrade
+sudo apt install nvidia-driver
+sudo nano /etc/apt/sources.list
+sudo apt update
+sudo apt upgrade
+sudo reboot 0
+conky -c ~/.config/conky/esquerda.conf 
+pkill conky
+sudo apt  install curl lm-sensors hddtemp
+sudo apt  install curl lm-sensors
+conky -c ~/.config/conky/esquerda.conf 
+~/.config/conky/scripts/start.sh 
+cd /home/fxlip/.config/conky/scripts/
+ls

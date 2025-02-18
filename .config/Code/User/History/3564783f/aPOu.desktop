@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/fxlip/.config/conky/scripts/start.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Conky
+Comment=Iniciar Conky automaticamente
