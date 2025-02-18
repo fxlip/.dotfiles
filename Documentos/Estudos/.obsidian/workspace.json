@@ -11,14 +11,10 @@
             "id": "7673e5c355a1dbd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bem-vindo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bem-vindo"
+              "title": "Nova aba"
             }
           }
         ]
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bem-vindo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Bem-vindo"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bem-vindo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Bem-vindo"
+              "title": "Links de saída"
             }
           },
           {
@@ -181,11 +175,24 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "7673e5c355a1dbd8",
+  "active": "d354fbe4c0061551",
   "lastOpenFiles": [
+    "PORTUGUES/Aulas 02.md",
+    "PORTUGUES/Aula 03.md",
+    "PORTUGUES/Aula 01.md",
+    "PORTUGUES",
+    "DIREITO_ADM/Aula 02.md",
+    "DIREITO_ADM/Aula 01.md",
+    "DIREITO_ADM",
+    "ADM_PUBLICA/Aula 04.md",
+    "ADM_PUBLICA/Aula 03.md",
+    "ADM_PUBLICA/Aula 02.md",
+    "ADM_PUBLICA/Aula 01.md",
+    "ADM_PUBLICA",
     "Bem-vindo.md"
   ]
 }

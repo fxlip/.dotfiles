@@ -1,0 +1,42 @@
+
+(Lei 11.107/05)
+* Concursos Públicos =/= Convênios (Ajuste: Contrato Lei 14.133/2021)
+	-> Reunião de Entes Federativos 
+		-> Nova PJ
+			-> Direito Público
+				-> Associação Pública (Integra a Administração Indireta de Todos os Entes Consorciados
+			-> Direito Privado
+				-> Associação Civil ("Privada")
+				-> Não Integra a Administração Pública
+		-> Normas de Direito Público 
+			-> Concurso Público
+			-> Licitações
+			-> Controle (Especialmente dos Tribunais de Contas)
+		-> Regime de Pessoal -> Celetista
+	-> Protocolo de Intenções
+		-> Contrato de Rateio
+			-> PJ de Direito Público -> Lei de Cada ente ratificando o protocolo de intenções
+			-> PJ de Direito Provado -> Procedimento do Código Civil (Registro dos Atos Constitutivos em Cartório)
+- **Bens Públicos**
+	- **Todos são Impenhoráveis e Imprescritíveis** (uso caipão)
+	- Os bens públicos enquanto afetados não podem ser alienáveis
+	- Os bens públicos enquanto desafetados podem ser alienáveis (Lei 14.133)
+	- Conceito
+		-> Lei: Titularizados por PJ de direito Público (código civil)
+		-> Doutrina/Jurisprudência: também são considerados públicos os bens de propriedade de pessoa jurídica de direito privado, prestadora de serviço público enquanto afetados (destinados) a uma finalidade pública.
+	- Classificação quanto a Destinação
+		-> de Uso Comum: Destinação Pública Geral/Genérica                                                 | -> Afetados
+		-> de Uso Especial: Destinação Pública Específica (Especial = Específico)             \\/ [Des/afetação] /\
+		-> Dominicais: Sem Destinação Pública (Especial = Comum) (Dominical = Domínio)  |-> Desafetados
+		- Terro Baldio
+		- Prédio Abandonado
+	- Uso Privativo de Bens Públicos por Particular
+		- Concessão de uso de bem público
+			- Contrato por prazo determinado
+			- Precedido de litação
+		- Permissão de uso de bem público (Dose maior de Interesse Público Envolvido)
+			- Ato administrativo, discricionário e precário
+			- Ex: foodtruck da câmera
+		- Autorização de uso de bem público (Interesse Privado predomina)
+			- Ato administrativo, discricionário e precário
+			- Ex: buteco do toinzin
