@@ -298,3 +298,12 @@ ls
 export PS1="\[\e[38;5;1m\]Meu Prompt \[\e[0m\]\$ "
 teste
 exit
+sudo apt update
+curl -s https://gist.githubusercontent.com/HaleTom/89ffe32783f89f403bba96bd7bcd1263/raw/ | bash
+clear
+sudo apt update
+sudo snap install obsidian 
+sudo snap install obsidian --classic
+cat ~/.Xauthority 
+rm ~/.Xauthority 
+sudo apt install webalizer 
