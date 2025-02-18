@@ -191,3 +191,58 @@ git push origin main
 sudo reboot 0
 teste
 ~/.config/conky/scripts/start.sh 
+git status
+git add .
+git commit -m "config monitores"
+git push origin main
+sudo nano /etc/default/grub
+pkill conky
+sudo nano /etc/default/grub
+sudo update-grub
+sudo reboot 0
+pkill conky
+sudo nano /etc/default/grub
+sudo update-grub
+sudo reboot 0
+pkill conky
+sudo nano /etc/default/grub
+sudo update-grub
+sudo reboot 0
+ls
+cd .
+startx
+cd .
+cd ..
+ls
+cd etc/
+ls
+cd default/
+ls
+nano grub
+sudo nano grub
+sudo reboot 0
+cd 
+cd ..
+sudo nano etc/default/grub
+sudo upgrade-grub
+sudo apt upgrade-grub
+sudo apt upgrade grub
+sudo apt grub-upgrade
+sudo update-grub
+sudo reboot 0
+sudo apt install plymouth
+sudo apt update
+sudo apt upgrade
+clear
+sudo apt install plymouth
+sudo plymouth-set-default-theme -R plymouth-theme-script
+ls /usr/share/plymouth/themes/
+cd Downloads/
+cp -r simplefuture/ /usr/share/plymouth/themes/
+ls /usr/share/plymouth/
+ls /usr/share/plymouth/themes/
+sudo cp -r simplefuture/ /usr/share/plymouth/themes/
+ls /usr/share/plymouth/themes/
+plymouth
+sudo plymouth-set-default-theme -R simplefuture
+sudo reboot 0
