@@ -48,6 +48,7 @@ Thumbs.db
 .mozilla
 .config
 snap/
+Downloads/
 
 ## Ignorar arquivos sensíveis
 **/.ssh/
