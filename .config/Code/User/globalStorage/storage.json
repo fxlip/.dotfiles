@@ -67,8 +67,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -777,8 +776,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -787,8 +785,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1733,8 +1730,8 @@
             "backupPath": "/home/fxlip/.config/Code/Backups/d788ca751f99930f5a07ac8372a3e0c0",
             "uiState": {
                 "mode": 1,
-                "x": 540,
-                "y": 130,
+                "x": 333,
+                "y": 122,
                 "width": 1200,
                 "height": 800
             }
