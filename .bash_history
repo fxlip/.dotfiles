@@ -170,3 +170,24 @@ conky -c ~/.config/conky/esquerda.conf
 ~/.config/conky/scripts/start.sh 
 cd /home/fxlip/.config/conky/scripts/
 ls
+git status
+git add .
+git commit -m "ajustes finos"
+git push origin main
+sudo apt install gnome-tweaks
+cd Downloads/
+ls
+ls -a
+cd dotfiles-main
+ls -a
+cd .dotfiles-main/
+ls -a
+cd ../../
+cd 
+git status
+git add .
+git commit -m "updt bash"
+git push origin main
+sudo reboot 0
+teste
+~/.config/conky/scripts/start.sh 

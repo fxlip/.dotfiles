@@ -1729,9 +1729,9 @@
             "folder": "file:///home/fxlip",
             "backupPath": "/home/fxlip/.config/Code/Backups/d788ca751f99930f5a07ac8372a3e0c0",
             "uiState": {
-                "mode": 1,
-                "x": 333,
-                "y": 122,
+                "mode": 0,
+                "x": 458,
+                "y": 120,
                 "width": 1200,
                 "height": 800
             }
