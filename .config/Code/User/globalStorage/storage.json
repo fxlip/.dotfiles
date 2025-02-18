@@ -653,13 +653,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Dividir em &&Grupos"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.moveEditorToNewWindow",
                                     "label": "&&Mover Editor em Nova Janela"
                                 },
@@ -770,7 +763,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Quebra De Texto"
+                        "label": "&&Quebra De Texto",
+                        "enabled": false
                     }
                 ]
             },
@@ -1459,11 +1453,6 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
-            "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
-            },
             "workbench.action.copyEditorToNewWindow": {
                 "label": "Ctrl+K O",
                 "isNative": false,
@@ -1732,7 +1721,7 @@
             "backupPath": "/home/fxlip/.config/Code/Backups/d788ca751f99930f5a07ac8372a3e0c0",
             "uiState": {
                 "mode": 0,
-                "x": 352,
+                "x": 342,
                 "y": 37,
                 "width": 1144,
                 "height": 760
